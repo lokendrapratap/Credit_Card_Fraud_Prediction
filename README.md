@@ -28,8 +28,10 @@ Flask
 #Quick Glance at Project working
 Data screenshot
 ![image](https://github.com/user-attachments/assets/2b965ce8-dbfa-4d19-bdf1-c3623674fa20)
+
 #UI
 ![image](https://github.com/user-attachments/assets/ce4e0e55-4081-4b4b-93a6-0b2d0769028c)
+
 #Prediction
 ![image](https://github.com/user-attachments/assets/dd840110-63cd-4afa-8e85-28c1948f5b20)
 #Lessons learnt:
